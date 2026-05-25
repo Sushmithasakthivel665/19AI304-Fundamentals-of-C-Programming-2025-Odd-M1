@@ -257,7 +257,8 @@ return 0;
 }
 ```
 # Output:
-<img width="305" height="254" alt="image" src="https://github.com/user-attachments/assets/0ecabc74-d7a1-428c-b88a-2af4d1933cd7" />
+<img width="271" height="179" alt="image" src="https://github.com/user-attachments/assets/9c247437-dc9c-48d4-8f50-97900acd7162" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
